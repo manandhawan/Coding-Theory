@@ -1,0 +1,18 @@
+Output generated using Generator Matrix from file: mat1.txt
+ 
+The input Generator Matrix is : ['1011', '0101']
+Thus, the code is : ['0000', '0101', '1011', '1110']
+Values of n, M are : 4, 4
+
+The Weight Enumerator function is given by W(C) = Sum[A(i)*z^i]
+Weight Enumerator of Code (C) is 2*z**3 + z**2 + 1
+
+The MacWilliams Identity is given by W(Cdual)  = [{(1+z)^n)*W((1-z)/(1+z)}]/[2^k]
+Weight Enumerator of Dual Code (using MacWilliams) is 2*z**3 + z**2 + 1
+
+
+The dual of the code is: ['0000', '0111', '1010', '1101']
+Values of n, M are : 4, 4
+
+The Weight Enumerator function is given by W(C) = Sum[A(i)*z^i]
+Weight Enumerator of Dual Code (Cdual) is 2*z**3 + z**2 + 1
